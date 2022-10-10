@@ -20,7 +20,7 @@ void bubbleSort(int arr[], int n)
 				swap(&arr[j], &arr[j + 1]);
 }
 
-/* Function to print an array */
+
 void printArray(int arr[], int size)
 {
 	int i;
